@@ -1,0 +1,26 @@
+name: quran_with_tafsir_example
+description: Example app for quran_with_tafsir.
+publish_to: "none"
+
+environment:
+  sdk: ">=3.0.0 <5.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  quran_with_tafsir:
+    path: ..
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: QuranFont
+      fonts:
+        - asset: assets/fonts/KfgqpcHafsUthmanicScriptRegular-nARZ1.ttf
+    - family: TafsirFont
+      fonts:
+        - asset: assets/fonts/AmiriQuran-Regular.ttf
