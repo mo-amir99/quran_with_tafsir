@@ -1,9 +1,8 @@
 name: quran_with_tafsir
 description: >-
-  A comprehensive, offline Quran package for Dart with Arabic text (Uthmani),
-  English translation, Tafsir (Arabic), page/juz navigation, search,
-  sajda detection, rub boundaries, audio URL generation, and reciter catalog.
-version: 1.0.0
+  Offline Quran package for Dart with Arabic text, English translation,
+  Tafsir Al-Muyassar, page/juz navigation, search, and audio URLs.
+version: 1.0.1
 homepage: https://github.com/mo-amir99/quran_with_tafsir
 repository: https://github.com/mo-amir99/quran_with_tafsir
 issue_tracker: https://github.com/mo-amir99/quran_with_tafsir/issues

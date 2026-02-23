@@ -1,4 +1,4 @@
-/// Arabic Quran text — import index for all 114 surahs.
+// Arabic Quran text — import index for all 114 surahs.
 import 'surah_1.dart' as s1;
 import 'surah_10.dart' as s10;
 import 'surah_100.dart' as s100;

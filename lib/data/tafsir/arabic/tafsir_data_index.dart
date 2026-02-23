@@ -1,4 +1,4 @@
-/// Arabic Tafsir (Al-Muyassar) — import index for all 114 surahs.
+// Arabic Tafsir (Al-Muyassar) — import index for all 114 surahs.
 import 'tafsir_1.dart' as t1;
 import 'tafsir_10.dart' as t10;
 import 'tafsir_100.dart' as t100;

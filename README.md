@@ -32,7 +32,7 @@ Add to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  quran_with_tafsir: ^1.0.0
+  quran_with_tafsir: ^1.0.1
 ```
 
 Then run:

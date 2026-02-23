@@ -1,3 +1,9 @@
+## 1.0.1
+
+- Fix dangling library doc comments flagged by pub.dev static analysis.
+- Shorten package description to meet pub.dev guidelines (60-180 chars).
+- Clean LICENSE file so pub.dev recognizes it as MIT (OSI-approved).
+
 ## 1.0.0
 
 - Initial release.
